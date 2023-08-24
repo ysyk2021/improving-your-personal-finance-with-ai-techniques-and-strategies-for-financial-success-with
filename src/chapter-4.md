@@ -1,5 +1,3 @@
-Chapter 3: Enhancing Investment Decisions with Machine Learning
-===============================================================
 
 Investment decisions can be complex and challenging, requiring individuals to assess a wide range of variables and factors. However, machine learning technologies can provide significant benefits for enhancing investment decision-making processes. In this chapter, we will discuss the use of machine learning for enhancing investment decisions.
 

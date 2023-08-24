@@ -1,5 +1,3 @@
-Automating tax preparation and filing with machine learning
-========================================================================================================================
 
 Tax preparation and filing can be time-consuming and confusing, but machine learning can help automate these processes and potentially save individuals both time and money. In this chapter, we will explore how machine learning can be leveraged for tax optimization.
 

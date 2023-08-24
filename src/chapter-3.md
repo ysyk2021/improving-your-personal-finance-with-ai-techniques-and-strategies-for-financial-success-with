@@ -1,5 +1,3 @@
-Chapter 2: Leveraging Machine Learning for Budgeting and Planning
-=================================================================
 
 One of the key areas where machine learning can be applied to personal finance is in budgeting and planning. In this chapter, we will explore how machine learning can be used to track expenses, manage budgets, and forecast long-term financial outcomes.
 

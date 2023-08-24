@@ -1,5 +1,3 @@
-Examples of Successful Implementation of Machine Learning in Personal Finance
-=================================================================================================================================================================
 
 Machine learning has already been successfully implemented in various areas of personal finance. Here are some examples of how machine learning has been applied to improve financial success:
 

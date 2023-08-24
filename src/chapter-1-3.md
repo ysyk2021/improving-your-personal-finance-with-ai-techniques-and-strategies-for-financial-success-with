@@ -1,5 +1,3 @@
-What you can expect from this book
-================================================
 
 Personal finance is an important aspect of our lives, yet it can often be overwhelming and confusing. With the rise of artificial intelligence (AI) and machine learning, there are now more tools and strategies available to help individuals improve their financial outcomes.
 

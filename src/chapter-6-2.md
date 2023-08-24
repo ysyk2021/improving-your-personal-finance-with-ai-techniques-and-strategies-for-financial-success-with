@@ -1,5 +1,3 @@
-Machine learning-powered tax filing assistance and error detection
-===============================================================================================================================
 
 Tax filing can be a daunting task, especially for individuals with complex financial situations. Fortunately, machine learning can help individuals optimize their tax filings by providing valuable insights and recommendations.
 

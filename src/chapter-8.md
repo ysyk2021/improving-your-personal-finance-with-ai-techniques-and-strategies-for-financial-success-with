@@ -1,5 +1,3 @@
-Conclusion
-==========
 
 In this book, we have discussed the benefits of using machine learning for personal finance and provided techniques and strategies to help individuals improve their financial success with technology. We hope that this book has been informative and helpful in empowering individuals to take control of their finances.
 

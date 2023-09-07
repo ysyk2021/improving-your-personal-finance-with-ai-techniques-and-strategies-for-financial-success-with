@@ -10,3 +10,7 @@ We will also address potential concerns and ethical considerations related to th
 Whether you're a beginner or an experienced investor, this book provides valuable insights and strategies for taking your personal finance to the next level. By leveraging the power of AI, you can achieve greater financial success and secure a brighter future for yourself and your loved ones.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng

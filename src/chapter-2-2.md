@@ -1,5 +1,4 @@
-Chapter: Common Applications of Machine Learning in Personal Finance, including Fraud Detection and Risk Assessment
-===================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
